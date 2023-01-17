@@ -1,4 +1,4 @@
+/* enables smooth/fluid scrolling in html element */
 html {
-    overflow-y: scroll;
     scroll-behavior: smooth;
-}
+  }
