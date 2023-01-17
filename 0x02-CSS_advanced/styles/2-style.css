@@ -1,0 +1,26 @@
+/* enables smooth/fluid scrolling in html element */
+html {
+    scroll-behavior: smooth;
+}
+
+/* sets the body foreground color */
+body {
+    color: #161616;
+}
+
+/* all anchor elements, sets the foreground color  */
+a {
+    columns: #161616;
+}
+
+.visually-hidden {
+    display: none;
+}
+
+.card-category {
+    color: #073953;
+}
+
+.section-tagline {
+    color: #073953;
+}
