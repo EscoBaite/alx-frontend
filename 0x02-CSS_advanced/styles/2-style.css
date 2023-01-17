@@ -10,7 +10,7 @@ body {
 
 /* all anchor elements, sets the foreground color  */
 a {
-    columns: #161616;
+    color: #161616;
 }
 
 .visually-hidden {
